@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(198, 228, 238);
+}
+
+.container{
+    background-color: white;
+    width: 270px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.container img{
+    margin-top: 5px;
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+.container p{
+    width: 240px;
+    margin: auto;
+}
+
+.container h3{
+    width: 220px;
+    margin: 5px auto;
+    padding: 25px;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
